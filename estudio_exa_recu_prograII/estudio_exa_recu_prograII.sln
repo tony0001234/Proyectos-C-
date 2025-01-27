@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "estudio_exa_recu_prograII", "estudio_exa_recu_prograII\estudio_exa_recu_prograII.csproj", "{2C54DE1F-9EC5-4FDE-AF5A-01FDA3F89DE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C54DE1F-9EC5-4FDE-AF5A-01FDA3F89DE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C54DE1F-9EC5-4FDE-AF5A-01FDA3F89DE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C54DE1F-9EC5-4FDE-AF5A-01FDA3F89DE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C54DE1F-9EC5-4FDE-AF5A-01FDA3F89DE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3075729-C440-4AA0-B726-2AB147C634DD}
+	EndGlobalSection
+EndGlobal
