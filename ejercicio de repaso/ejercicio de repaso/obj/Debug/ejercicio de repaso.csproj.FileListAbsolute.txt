@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\Proyecto final progra II\ejercicio de repaso\ejercicio de repaso\bin\Debug\ejercicio de repaso.exe.config
+C:\Users\PC\Desktop\Proyecto final progra II\ejercicio de repaso\ejercicio de repaso\bin\Debug\ejercicio de repaso.exe
+C:\Users\PC\Desktop\Proyecto final progra II\ejercicio de repaso\ejercicio de repaso\bin\Debug\ejercicio de repaso.pdb
+C:\Users\PC\Desktop\Proyecto final progra II\ejercicio de repaso\ejercicio de repaso\obj\Debug\ejercicio de repaso.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Proyecto final progra II\ejercicio de repaso\ejercicio de repaso\obj\Debug\ejercicio de repaso.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\Proyecto final progra II\ejercicio de repaso\ejercicio de repaso\obj\Debug\ejercicio_de_repaso.Form1.resources
+C:\Users\PC\Desktop\Proyecto final progra II\ejercicio de repaso\ejercicio de repaso\obj\Debug\ejercicio_de_repaso.Properties.Resources.resources
+C:\Users\PC\Desktop\Proyecto final progra II\ejercicio de repaso\ejercicio de repaso\obj\Debug\ejercicio de repaso.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Proyecto final progra II\ejercicio de repaso\ejercicio de repaso\obj\Debug\ejercicio de repaso.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Proyecto final progra II\ejercicio de repaso\ejercicio de repaso\obj\Debug\ejercicio de repaso.exe
+C:\Users\PC\Desktop\Proyecto final progra II\ejercicio de repaso\ejercicio de repaso\obj\Debug\ejercicio de repaso.pdb
