@@ -1,0 +1,13 @@
+C:\Users\PC\Desktop\Proyecto final progra II\crud_p(canal codigo estudiante)\crud_p(canal codigo estudiante)\bin\Debug\crud_p(canal codigo estudiante).exe.config
+C:\Users\PC\Desktop\Proyecto final progra II\crud_p(canal codigo estudiante)\crud_p(canal codigo estudiante)\bin\Debug\crud_p(canal codigo estudiante).exe
+C:\Users\PC\Desktop\Proyecto final progra II\crud_p(canal codigo estudiante)\crud_p(canal codigo estudiante)\bin\Debug\crud_p(canal codigo estudiante).pdb
+C:\Users\PC\Desktop\Proyecto final progra II\crud_p(canal codigo estudiante)\crud_p(canal codigo estudiante)\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\PC\Desktop\Proyecto final progra II\crud_p(canal codigo estudiante)\crud_p(canal codigo estudiante)\obj\Debug\crud_p(canal codigo estudiante).csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Proyecto final progra II\crud_p(canal codigo estudiante)\crud_p(canal codigo estudiante)\obj\Debug\crud_p(canal codigo estudiante).csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\Proyecto final progra II\crud_p(canal codigo estudiante)\crud_p(canal codigo estudiante)\obj\Debug\crud_p_canal_codigo_estudiante_.Inicio.resources
+C:\Users\PC\Desktop\Proyecto final progra II\crud_p(canal codigo estudiante)\crud_p(canal codigo estudiante)\obj\Debug\crud_p_canal_codigo_estudiante_.Properties.Resources.resources
+C:\Users\PC\Desktop\Proyecto final progra II\crud_p(canal codigo estudiante)\crud_p(canal codigo estudiante)\obj\Debug\crud_p(canal codigo estudiante).csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Proyecto final progra II\crud_p(canal codigo estudiante)\crud_p(canal codigo estudiante)\obj\Debug\crud_p(canal codigo estudiante).csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Proyecto final progra II\crud_p(canal codigo estudiante)\crud_p(canal codigo estudiante)\obj\Debug\crud_p(canal codigo estudiante).csproj.CopyComplete
+C:\Users\PC\Desktop\Proyecto final progra II\crud_p(canal codigo estudiante)\crud_p(canal codigo estudiante)\obj\Debug\crud_p(canal codigo estudiante).exe
+C:\Users\PC\Desktop\Proyecto final progra II\crud_p(canal codigo estudiante)\crud_p(canal codigo estudiante)\obj\Debug\crud_p(canal codigo estudiante).pdb
