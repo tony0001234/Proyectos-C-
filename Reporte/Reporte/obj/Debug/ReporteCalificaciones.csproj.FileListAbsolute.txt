@@ -1,0 +1,22 @@
+D:\DPR\Desarrollo\Reporte\Reporte\bin\Debug\Reporte.exe.config
+D:\DPR\Desarrollo\Reporte\Reporte\bin\Debug\Reporte.exe
+D:\DPR\Desarrollo\Reporte\Reporte\bin\Debug\Reporte.pdb
+D:\DPR\Desarrollo\Reporte\Reporte\obj\Debug\ReporteCalificaciones.csproj.AssemblyReference.cache
+D:\DPR\Desarrollo\Reporte\Reporte\obj\Debug\ReporteCalificaciones.csproj.SuggestedBindingRedirects.cache
+D:\DPR\Desarrollo\Reporte\Reporte\obj\Debug\Reporte.Properties.Resources.resources
+D:\DPR\Desarrollo\Reporte\Reporte\obj\Debug\ReporteCalificaciones.csproj.GenerateResource.cache
+D:\DPR\Desarrollo\Reporte\Reporte\obj\Debug\ReporteCalificaciones.csproj.CoreCompileInputs.cache
+D:\DPR\Desarrollo\Reporte\Reporte\obj\Debug\Reporte.exe
+D:\DPR\Desarrollo\Reporte\Reporte\obj\Debug\Reporte.pdb
+D:\DPR\Desarrollo\Reporte\Reporte\obj\Debug\ReporteCalificaciones.Principal.resources
+C:\Users\PC\Desktop\Proyecto final progra II\Reporte\Reporte\bin\Debug\Reporte.exe.config
+C:\Users\PC\Desktop\Proyecto final progra II\Reporte\Reporte\bin\Debug\Reporte.exe
+C:\Users\PC\Desktop\Proyecto final progra II\Reporte\Reporte\bin\Debug\Reporte.pdb
+C:\Users\PC\Desktop\Proyecto final progra II\Reporte\Reporte\obj\Debug\ReporteCalificaciones.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Proyecto final progra II\Reporte\Reporte\obj\Debug\ReporteCalificaciones.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\Proyecto final progra II\Reporte\Reporte\obj\Debug\ReporteCalificaciones.Principal.resources
+C:\Users\PC\Desktop\Proyecto final progra II\Reporte\Reporte\obj\Debug\Reporte.Properties.Resources.resources
+C:\Users\PC\Desktop\Proyecto final progra II\Reporte\Reporte\obj\Debug\ReporteCalificaciones.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Proyecto final progra II\Reporte\Reporte\obj\Debug\ReporteCalificaciones.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Proyecto final progra II\Reporte\Reporte\obj\Debug\Reporte.exe
+C:\Users\PC\Desktop\Proyecto final progra II\Reporte\Reporte\obj\Debug\Reporte.pdb
